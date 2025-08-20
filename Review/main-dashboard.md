@@ -1,4 +1,9 @@
 ---
+banner: attachments/lifeos.png
+created: 20-08-2025, 20:19:45
+updated: 20-08-2025, 20:36:43
+---
+---
 id: main-dashboard
 aliases:
   - main dashboard

@@ -1,5 +1,8 @@
 ---
 banner: "attachments/goal2.jpg"
+---
+---
+banner: "attachments/goal2.jpg"
 banner_y: 0.432
 created: <% tp.file.creation_date("DD-MM-YYYY, HH:mm:ss") %>
 excalidraw-plugin: parsed

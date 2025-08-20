@@ -17,5 +17,6 @@
     "cards",
     "Minimal Theme Cards",
     "dv-table-no-wrap"
-  ]
+  ],
+  "showRibbon": true
 }

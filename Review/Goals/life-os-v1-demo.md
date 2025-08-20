@@ -1,4 +1,7 @@
 ---
+banner: "https://res.cloudinary.com/difh5ajzd/image/upload/v1720972960/goal1_jwcljb.jpg"
+---
+---
 excalidraw-plugin: parsed
 excalidraw-open-md: true
 tags:

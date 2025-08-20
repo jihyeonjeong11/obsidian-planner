@@ -36,6 +36,5 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "promptDelete": false,
-  "showRibbon": true,
   "mobilePullAction": "command-palette:open"
 }
