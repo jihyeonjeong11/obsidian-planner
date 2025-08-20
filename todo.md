@@ -5,7 +5,7 @@ aliases:
 tags:
   - type/todo
 created: 19-05-2024, 23:44:00
-updated: 17-11-2024, 01:24:44
+updated: 20-08-2025, 20:52:59
 ---
 
 > [!info|float-right-small]
@@ -13,12 +13,11 @@ updated: 17-11-2024, 01:24:44
 
 
 # TODO
-- [!] buy more coffee ☕️ 
-- [x] buy milk 🥛
-- [/] publishing project demo...
-- [ ] clean coffee machine
-    - [x] buy decalc
-    - [ ] buy water filter
+
+
+- [/] Find new Obsidian planner and use it.
+- [x] Check job portals
+
 
 # OBSIDIAN LIFE OS
 - [x] Create demo version
