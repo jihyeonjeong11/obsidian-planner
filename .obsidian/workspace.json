@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Goals/Solve all easy leetcode problems.md",
+                "file": "Review/main-dashboard.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Solve all easy leetcode problems"
+              "title": "main-dashboard"
             }
           }
         ]
@@ -96,12 +96,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Goals/Solve all easy leetcode problems.md",
+                "file": "Review/main-dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Solve all easy leetcode problems"
+              "title": "Outgoing links from main-dashboard"
             }
           },
           {
@@ -152,16 +152,23 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Review/Daily/2025-08-21.md",
     "Review/main-dashboard.md",
+    "Review/habits-list.md",
     "Review/Goals/Solve all easy leetcode problems.md",
-    "Review/goals-dashboard.md",
+    "templates/lifeos-daily.md",
+    "Review/Weekly/2025-W34.md",
+    "Review/Weekly/2024-W44.md",
+    "Review/Weekly/2024-W43.md",
+    "Review/habit-tracker.md",
+    "Review/training-plan-tracker.md",
+    "Review/Goals/Reduce wait.md",
     "todo.md",
+    "Review/goals-dashboard.md",
     "Review/Daily/2025-08-20.md",
     "Review/Daily/2025-01-04.md",
-    "templates/lifeos-daily.md",
     "templates/lifeos-goal.md",
     "Review/Daily/2025-01-03.md",
-    "Review/habits-list.md",
     "Review/Daily/2025-01-02.md",
     "README.md",
     "templates/lifeos-weekly.md",
@@ -171,14 +178,7 @@
     "Review/Daily/2024-10-28.md",
     "Review/Daily/2024-11-03.md",
     "my-git-notes.md",
-    "Review/Goals/life-os-v1-demo.md",
-    "Review/training-plan-tracker.md",
-    "Review/habit-tracker.md",
     "Review/training-plan-tracker.md~",
-    "Review/Daily/2025-01-01.md",
-    "Review/Daily/2024-11-25.md",
-    "Review/Daily/2024-11-24.md",
-    "Review/Goals/testme.md",
     "excalidraw-page.jpg",
     "Review/Goals/life-os-v1-demo.svg",
     "attachments/demo-preview/plugins-lazy-loading.png",

@@ -1,15 +1,16 @@
 ---
 banner: attachments/goal2.jpg
-created: 20-08-2025, 20:54:47
-updated: 21-08-2025, 21:07:33
-Progress: 93
+created: 21-08-2025, 07:06:24
+updated: 21-08-2025, 07:15:26
 StartedDate: 2025-08-20
-Deadline: 2025-08-30
+Progress: 92
+List-important:
+  - to 80 first
 ---
 ---
 banner: "attachments/goal2.jpg"
 banner_y: 0.432
-created: 20-08-2025, 20:54:47
+created: 21-08-2025, 07:06:24
 excalidraw-plugin: parsed
 excalidraw-open-md: true
 obsidianUIMode: preview
@@ -25,9 +26,9 @@ StartedDate: ""
 Target: 100
 ---
 
-#  Solve all easy leetcode problems  
+#  Reduce wait  
 
-![[Solve all easy leetcode problems.svg]]
+![[Reduce wait.svg]]
 
 ```meta-bind  
 INPUT[  

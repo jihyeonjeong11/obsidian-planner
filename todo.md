@@ -5,7 +5,7 @@ aliases:
 tags:
   - type/todo
 created: 19-05-2024, 23:44:00
-updated: 20-08-2025, 20:52:59
+updated: 21-08-2025, 07:09:18
 ---
 
 > [!info|float-right-small]
@@ -17,6 +17,8 @@ updated: 20-08-2025, 20:52:59
 
 - [/] Find new Obsidian planner and use it.
 - [x] Check job portals
+- [ ] buy ukranian related stock!
+- [ ] 
 
 
 # OBSIDIAN LIFE OS
