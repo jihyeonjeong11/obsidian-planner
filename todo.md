@@ -5,7 +5,7 @@ aliases:
 tags:
   - type/todo
 created: 19-05-2024, 23:44:00
-updated: 21-08-2025, 07:09:18
+updated: 04-09-2025, 07:19:45
 ---
 
 > [!info|float-right-small]
@@ -13,14 +13,12 @@ updated: 21-08-2025, 07:09:18
 
 
 # TODO
-
-
-- [/] Find new Obsidian planner and use it.
-- [x] Check job portals
-- [ ] buy ukranian related stock!
-- [ ] 
-
-
+- [x] buy more coffee ☕️ 
+- [x] buy milk 🥛
+- [/] publishing project demo...
+- [x] clean coffee machine
+    - [x] buy decalc
+- [x] hello this is test todo
 # OBSIDIAN LIFE OS
 - [x] Create demo version
 - [x] My Homepage (my center hub)
@@ -45,4 +43,3 @@ updated: 21-08-2025, 07:09:18
 # Next >
 
 - [<] Watch movie Diuna pt 2 
-
