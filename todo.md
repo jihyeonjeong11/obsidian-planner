@@ -5,7 +5,7 @@ aliases:
 tags:
   - type/todo
 created: 19-05-2024, 23:44:00
-updated: 04-09-2025, 07:19:45
+updated: 16-09-2025, 19:32:46
 ---
 
 > [!info|float-right-small]
@@ -15,7 +15,7 @@ updated: 04-09-2025, 07:19:45
 # TODO
 - [x] buy more coffee ☕️ 
 - [x] buy milk 🥛
-- [/] publishing project demo...
+- [ ] publishing project demo...
 - [x] clean coffee machine
     - [x] buy decalc
 - [x] hello this is test todo

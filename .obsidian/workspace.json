@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Daily/2025-09-14.md",
+                "file": "my-git-notes.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-14"
+              "title": "my-git-notes"
+            }
+          },
+          {
+            "id": "1fd594e2d092954a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/lifeos-daily.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lifeos-daily"
+            }
+          },
+          {
+            "id": "e560cc1b82eae827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Daily/2025-09-16.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-16"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Daily/2025-09-14.md",
+                "file": "Review/Daily/2025-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-14"
+              "title": "Outgoing links from 2025-09-16"
             }
           },
           {
@@ -150,9 +181,26 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e560cc1b82eae827",
   "lastOpenFiles": [
     "Review/main-dashboard.md",
+    "templates/lifeos-daily.md",
+    "templates/lifeos-goal.md",
+    "templates/_startup_template.md",
+    "templates/lifeos-weekly.md",
+    "keys-vim.md",
+    "Review/habits-list.md",
+    "my-git-notes.md",
+    "Untitled.base",
+    "todo.md",
+    "Review/Daily/2025-09-16.md",
+    "README.md",
+    "todo-legend.md",
+    "keys-xcode.md",
+    "nvim-plugins-info.md",
+    "keys-my-nvim.md",
+    "Excalidraw/Drawing 2024-11-16 21.06.07.md",
+    "Review/Daily/2025-09-15.md",
     "Review/Daily/2025-09-14.md",
     "Review/Daily/2025-09-13.md",
     "Review/Daily/2025-09-11.md",
@@ -162,22 +210,6 @@
     "Review/Daily/2025-09-07.md",
     "Review/Daily/2025-09-06.md",
     "Review/Daily/2025-09-04.md",
-    "Review/Daily/2025-09-03.md",
-    "todo.md",
-    "README.md",
-    "todo-legend.md",
-    "keys-my-nvim.md",
-    "keys-vim.md",
-    "keys-xcode.md",
-    "my-git-notes.md",
-    "Review/habits-list.md",
-    "templates/lifeos-daily.md",
-    "templates/_startup_template.md",
-    "templates/lifeos-goal.md",
-    "templates/lifeos-weekly.md",
-    "Review/Daily/2025-09-02.md",
-    "Review/Daily/2025-09-01.md",
-    "Review/Daily/2025-08-31.md",
     "Review/training-plan-tracker.md~",
     "excalidraw-page.jpg",
     "Review/Goals/life-os-v1-demo.svg",
@@ -197,7 +229,6 @@
     "drawing.json~",
     "drawing.json",
     "Review/Goals/test2.md~",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
