@@ -1,4 +1,9 @@
 ---
+banner: attachments/drums-challenge.jpeg
+created: 20-08-2025, 20:19:45
+updated: 29-09-2025, 20:32:22
+---
+---
 id: lifeos-goal
 aliases:
   - LifeOS Goal

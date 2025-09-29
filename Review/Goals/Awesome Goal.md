@@ -1,5 +1,8 @@
 ---
 banner: "attachments/goal2.jpg"
+---
+---
+banner: "attachments/goal2.jpg"
 banner_y: 0.432
 excalidraw-plugin: parsed
 excalidraw-open-md: true

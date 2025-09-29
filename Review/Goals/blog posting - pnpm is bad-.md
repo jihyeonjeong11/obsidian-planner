@@ -1,16 +1,12 @@
 ---
 banner: attachments/goal2.jpg
-created: 20-08-2025, 20:54:47
-updated: 29-09-2025, 20:32:53
-Progress: 100
-StartedDate: 2025-08-20
-Deadline: 2025-08-30
-CompletedDate: 2025-08-24
+created: 29-09-2025, 20:33:23
+updated: 29-09-2025, 20:33:24
 ---
 ---
 banner: "attachments/goal2.jpg"
 banner_y: 0.432
-created: 20-08-2025, 20:54:47
+created: 29-09-2025, 20:33:23
 excalidraw-plugin: parsed
 excalidraw-open-md: true
 obsidianUIMode: preview
@@ -26,9 +22,9 @@ StartedDate: ""
 Target: 100
 ---
 
-#  Solve all easy leetcode problems  
+#  blog posting - pnpm is bad-  
 
-![[Solve all easy leetcode problems.svg]]
+![[blog posting - pnpm is bad-.svg]]
 
 ```meta-bind  
 INPUT[  

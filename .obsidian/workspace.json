@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Daily/2025-09-26.md",
+                "file": "Review/Daily/2025-09-29.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-26"
+              "title": "2025-09-29"
+            }
+          },
+          {
+            "id": "40ae4a1af36c7333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Goals/drums-independence-30day.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "drums-independence-30day"
+            }
+          },
+          {
+            "id": "fc49cd2153c326bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Goals/blog posting - pnpm is bad-.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "blog posting - pnpm is bad-"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Daily/2025-09-26.md",
+                "file": "Review/Goals/blog posting - pnpm is bad-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-09-26"
+              "title": "Outgoing links from blog posting - pnpm is bad-"
             }
           },
           {
@@ -150,19 +181,31 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fc49cd2153c326bb",
   "lastOpenFiles": [
+    "Review/goals-dashboard.md",
+    "Review/Goals/blog posting - pnpm is bad-.md",
+    "Review/Goals/Solve all easy leetcode problems.md",
+    "Review/Goals/Reduce wait.md",
+    "Review/Goals/life-os-v1-demo.svg",
+    "Review/Goals/Make local web server and spring boot + fullstack frontend.md",
+    "Review/Goals/life-os-v1-demo.md",
+    "Review/Goals/knowledge-base-notes.md",
+    "Review/Goals/drums-toxicity.md",
+    "Review/Goals/Awesome Goal.svg",
+    "Review/Goals/drums-independence-30day.md",
+    "Review/Goals/Awesome Goal.md",
+    "templates/_startup_template.md",
+    "templates/lifeos-goal.md",
+    "Review/Goals/blog post- useState queryclient.md",
     "Review/main-dashboard.md",
+    "Review/Daily/2025-09-29.md",
     "Review/Daily/2025-09-26.md",
     "Untitled 1.base",
     "templates/lifeos-daily.md",
-    "templates/lifeos-goal.md",
-    "templates/_startup_template.md",
     "templates/lifeos-weekly.md",
     "keys-vim.md",
     "Review/Daily/2025-09-23.md",
-    "Review/Goals/blog post- useState queryclient.md",
-    "Review/goals-dashboard.md",
     "Review/Daily/2025-09-16.md",
     "Review/habits-list.md",
     "my-git-notes.md",
@@ -170,26 +213,14 @@
     "todo.md",
     "README.md",
     "todo-legend.md",
-    "keys-xcode.md",
-    "nvim-plugins-info.md",
-    "keys-my-nvim.md",
-    "Excalidraw/Drawing 2024-11-16 21.06.07.md",
-    "Review/Daily/2025-09-15.md",
-    "Review/Daily/2025-09-14.md",
-    "Review/Daily/2025-09-13.md",
-    "Review/Daily/2025-09-11.md",
-    "Review/Daily/2025-09-10.md",
-    "Review/Daily/2025-09-09.md",
     "Review/training-plan-tracker.md~",
     "excalidraw-page.jpg",
-    "Review/Goals/life-os-v1-demo.svg",
     "attachments/demo-preview/plugins-lazy-loading.png",
     "attachments/demo-preview/plugins-startup-times-button.png",
     "attachments/demo-preview/plugins-startup-time.png",
     "attachments/demo-preview/startup-times-button.png",
     "attachments/demo-preview/lazy-plugin-loading.png",
     "attachments/demo-preview/new-drawing-json-fadeout.png",
-    "Review/Goals/Awesome Goal.svg",
     "Excalidraw/my-git-notes 2024-11-17 15.58.26.svg",
     "todo.md~",
     "templates/lifeos-weekly.md~",
