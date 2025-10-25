@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Review/Goals/Awesome Goal.md",
+                "file": "Review/Daily/2025-10-25.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Awesome Goal"
+              "title": "2025-10-25"
+            }
+          },
+          {
+            "id": "7d5b2280bc84545a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Review/Goals/Opensource - contribute anything!.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Opensource - contribute anything!"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Review/Goals/Awesome Goal.md",
+                "file": "Review/Goals/Opensource - contribute anything!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Awesome Goal"
+              "title": "Outgoing links from Opensource - contribute anything!"
             }
           },
           {
@@ -150,19 +166,21 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7d5b2280bc84545a",
   "lastOpenFiles": [
-    "Review/Goals/Awesome Goal.svg",
-    "Review/Goals/blog post- useState queryclient.md",
-    "Review/Goals/blog posting - pnpm is bad-.md",
-    "Review/Goals/Awesome Goal.md",
-    "Review/Daily/2025-10-22.md",
+    "Review/goals-dashboard.md",
+    "Review/Goals/Opensource - contribute anything!.md",
     "Review/main-dashboard.md",
+    "Review/Goals/blog post- useState queryclient.md",
+    "Review/Daily/2025-10-25.md",
+    "Review/Goals/Awesome Goal.md",
+    "Review/Goals/Awesome Goal.svg",
+    "Review/Goals/blog posting - pnpm is bad-.md",
+    "Review/Daily/2025-10-22.md",
     "Review/Daily/2025-10-21.md",
     "Review/Daily/2025-10-16.md",
     "Review/Daily/2025-10-01.md",
     "Review/Daily/2025-09-30.md",
-    "Review/goals-dashboard.md",
     "Review/Goals/Solve all easy leetcode problems.md",
     "Review/Goals/Reduce wait.md",
     "Review/Goals/life-os-v1-demo.svg",
@@ -179,7 +197,6 @@
     "templates/lifeos-daily.md",
     "templates/lifeos-weekly.md",
     "keys-vim.md",
-    "Review/Daily/2025-09-23.md",
     "Untitled.base",
     "Review/training-plan-tracker.md~",
     "excalidraw-page.jpg",
