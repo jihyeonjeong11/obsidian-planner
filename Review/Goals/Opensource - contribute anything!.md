@@ -1,10 +1,11 @@
 ---
 banner: attachments/goal2.jpg
 created: 25-10-2025, 23:07:50
-updated: 25-10-2025, 23:07:50
+updated: 29-10-2025, 21:24:00
 List-important:
   - stdlib
   - finding
+  - find something korean
 ---
 ---
 banner: "attachments/goal2.jpg"
