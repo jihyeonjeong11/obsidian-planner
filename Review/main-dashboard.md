@@ -1,7 +1,7 @@
 ---
 banner: attachments/lifeos.png
 created: 20-08-2025, 20:19:45
-updated: 29-10-2025, 21:24:01
+updated: 23-11-2025, 15:48:47
 ---
 ---
 id: main-dashboard
